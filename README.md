@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScopperGaban
+- 👋 Hi, I’m @MedAliOrh
 - 👀 I’m interested in coding games
 - 🌱 I’m currently learning JS
 - 📫 aliourihi@hotmail.fr
